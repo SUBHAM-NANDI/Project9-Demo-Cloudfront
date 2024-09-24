@@ -1,6 +1,6 @@
 # Project9-Demo-Cloudfront
 
-Hosting a Static Website on S3 with CloudFront
+### Hosting a Static Website on S3 with CloudFront
 
 ### What is AWS CloudFront?
 
